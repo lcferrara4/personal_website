@@ -1,2 +1,2 @@
 # personal_website
-Files related to personal websited
+Files related to personal website
