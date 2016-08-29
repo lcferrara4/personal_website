@@ -1,0 +1,28 @@
+.jumbotron {
+  	background-image:url('http://blogs.nd.edu/ndphotography/files/2013/11/10.14.13-Lake-Morning-Mist-2blog.jpg');
+  	height: 250px;
+	background-repeat: no-repeat;
+  	background-size: cover;
+}
+
+.jumbotron h1{
+  	color: #fff;
+  	font-size: 72px;  
+  	font-family: 'Shift', sans-serif;
+  	font-weight: bold;
+	text-transform: uppercase;
+  	position: relative;
+  	top:40px;
+	text-align: center;
+}
+
+.nav li{
+	display: inline;
+}
+
+.classes {
+        text-align: center
+}
+
+
+
